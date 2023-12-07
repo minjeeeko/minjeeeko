@@ -1,8 +1,7 @@
 ## Hello, World 🙃 I'm Minjee. 
 
-- I want to be a Data scientist who loves to analyzing data and discovering insights of data ! 
+- I want to be a Data analyst/scientist who loves to analyzing data and discovering insights of data ! 
 - I majored in Spatial Information Engineering as a bachelor's degree and studied Spatial Data Science as a master's degree. 
-- After graduating from master's in August 2022, I am looking for a job to become a Data Analyst/Scientist 🖐
 <br>
 
 ## 💻 Stack 
@@ -25,5 +24,6 @@
 
 - Location based Data
 - Data Analysis/Science
+- Data Marketing 
 - Applying data to real world
 <br> 
